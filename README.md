@@ -1,20 +1,20 @@
-# 🌦️ WeatherApp
+# 🎨 Frontend Projects by Anindita
 
-A React-based weather application that uses `useEffect` to fetch real-time weather data based on user input.
+Welcome to my collection of frontend projects built with React, Tailwind CSS, and Vite. Each folder contains a standalone app with its own setup and features.
 
-## 🚀 Features
-- Live weather updates
-- City-based search
-- Responsive design with Tailwind CSS
-- Modular components (`WeatherCard`, `App`, etc.)
+## 📂 Projects
 
-## 🛠️ Tech Stack
-- React
-- Tailwind CSS
-- Vite
-- OpenWeatherMap API (or similar)
+- [🌦️ WeatherApp](./WeatherApp)  
+  A React-based weather app using `useEffect` and Tailwind CSS.
 
-## 📦 Setup
+- [✊ Rock Paper Scissors Game](./RockPAperScissors)  
+  A fun interactive game built with React and custom styling.
+
+## 🚀 How to Run
+
+Each project has its own `package.json`. To run any app:
+
 ```bash
+cd ProjectFolder
 npm install
 npm run dev
